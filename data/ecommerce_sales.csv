@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Region,Quantity,Unit_Price,Discount_Percent,Revenue,Profit,Payment_Mode
+ORD0001,2025-03-13,CUST021,Tablet,Electronics,South,4,22000,20,70400.0,7827.35,Debit Card
+ORD0002,2025-04-10,CUST104,Tablet,Electronics,East,3,22000,10,59400.0,13498.65,Credit Card
+ORD0003,2025-07-11,CUST021,Mouse,Accessories,North,2,900,15,1530.0,366.52,Cash on Delivery
+ORD0004,2025-02-18,CUST059,Power Bank,Accessories,South,2,1800,20,2880.0,441.88,Cash on Delivery
+ORD0005,2025-05-11,CUST051,Headphones,Accessories,Central,4,2500,15,8500.0,1536.04,UPI
+ORD0006,2025-01-14,CUST009,Tablet,Electronics,South,2,22000,15,37400.0,8982.52,UPI
+ORD0007,2025-09-21,CUST035,Smartphone,Electronics,North,4,30000,15,102000.0,15792.24,Cash on Delivery
+ORD0008,2025-02-23,CUST106,Smartphone,Electronics,West,4,30000,15,102000.0,13565.07,Credit Card
+ORD0009,2025-09-27,CUST095,Smartphone,Electronics,West,2,30000,15,51000.0,12225.46,UPI
+ORD0010,2025-02-22,CUST024,Smartwatch,Wearables,South,1,7000,20,5600.0,706.32,UPI
+ORD0011,2025-11-23,CUST009,USB Cable,Accessories,North,1,500,20,400.0,37.07,Cash on Delivery
+ORD0012,2025-06-12,CUST033,Smartwatch,Wearables,East,4,7000,10,25200.0,2867.84,UPI
+ORD0013,2025-05-15,CUST072,Power Bank,Accessories,West,3,1800,5,5130.0,511.45,Credit Card
+ORD0014,2025-12-26,CUST035,Laptop,Electronics,North,4,65000,20,208000.0,42438.87,Debit Card
+ORD0015,2025-08-06,CUST142,Mouse,Accessories,East,3,900,10,2430.0,508.68,UPI
+ORD0016,2025-03-04,CUST096,Power Bank,Accessories,North,2,1800,15,3060.0,300.93,Cash on Delivery
+ORD0017,2025-08-25,CUST143,Keyboard,Accessories,East,2,1800,20,2880.0,352.45,UPI
+ORD0018,2025-10-11,CUST066,Keyboard,Accessories,South,1,1800,10,1620.0,320.94,UPI
+ORD0019,2025-02-13,CUST084,USB Cable,Accessories,East,1,500,15,425.0,92.07,Cash on Delivery
+ORD0020,2025-07-09,CUST129,Power Bank,Accessories,North,3,1800,15,4590.0,645.22,Debit Card
+ORD0021,2025-12-25,CUST137,USB Cable,Accessories,Central,4,500,20,1600.0,362.12,UPI
+ORD0022,2025-11-11,CUST118,Headphones,Accessories,North,2,2500,15,4250.0,516.38,Cash on Delivery
+ORD0023,2025-09-25,CUST039,Laptop,Electronics,South,2,65000,0,130000.0,16011.53,Debit Card
+ORD0024,2025-07-06,CUST113,Laptop,Electronics,South,1,65000,0,65000.0,16225.03,Credit Card
+ORD0025,2025-05-06,CUST130,Monitor,Electronics,Central,3,15000,20,36000.0,4991.84,Cash on Delivery
+ORD0026,2025-07-03,CUST123,Power Bank,Accessories,North,4,1800,15,6120.0,573.72,Debit Card
+ORD0027,2025-07-17,CUST139,Monitor,Electronics,North,4,15000,20,48000.0,8999.62,UPI
+ORD0028,2025-09-09,CUST147,Monitor,Electronics,South,4,15000,20,48000.0,10844.21,Debit Card
+ORD0029,2025-05-08,CUST039,Headphones,Accessories,South,4,2500,15,8500.0,2039.06,Cash on Delivery
+ORD0030,2025-05-31,CUST042,Laptop,Electronics,East,3,65000,15,165750.0,33976.55,Debit Card
+ORD0031,2025-01-02,CUST129,Power Bank,Accessories,West,4,1800,0,7200.0,1208.36,UPI
+ORD0032,2025-08-21,CUST099,Mouse,Accessories,East,4,900,10,3240.0,363.14,Cash on Delivery
+ORD0033,2025-03-16,CUST113,Headphones,Accessories,West,4,2500,0,10000.0,1891.45,Credit Card
+ORD0034,2025-04-09,CUST093,Smartwatch,Wearables,South,4,7000,10,25200.0,3610.86,Cash on Delivery
+ORD0035,2025-06-18,CUST068,Smartphone,Electronics,North,2,30000,10,54000.0,10305.0,Credit Card
+ORD0036,2025-05-15,CUST145,Mouse,Accessories,North,4,900,15,3060.0,435.44,Cash on Delivery
+ORD0037,2025-09-21,CUST027,Headphones,Accessories,East,2,2500,20,4000.0,650.98,Credit Card
+ORD0038,2025-11-13,CUST048,Mouse,Accessories,East,2,900,0,1800.0,320.53,Cash on Delivery
+ORD0039,2025-06-21,CUST046,Headphones,Accessories,Central,4,2500,0,10000.0,874.13,Credit Card
+ORD0040,2025-12-15,CUST046,Headphones,Accessories,Central,4,2500,0,10000.0,2420.22,Debit Card
+ORD0041,2025-09-10,CUST067,Headphones,Accessories,South,4,2500,0,10000.0,928.09,UPI
+ORD0042,2025-06-23,CUST024,Power Bank,Accessories,South,3,1800,5,5130.0,1221.47,Cash on Delivery
+ORD0043,2025-09-30,CUST104,Monitor,Electronics,North,3,15000,5,42750.0,5267.13,UPI
+ORD0044,2025-01-26,CUST099,Monitor,Electronics,South,4,15000,20,48000.0,6259.52,UPI
+ORD0045,2025-11-09,CUST036,Smartwatch,Wearables,Central,1,7000,15,5950.0,993.22,Cash on Delivery
+ORD0046,2025-05-23,CUST092,Laptop,Electronics,South,4,65000,15,221000.0,50990.21,Credit Card
+ORD0047,2025-03-04,CUST125,Tablet,Electronics,South,3,22000,10,59400.0,9453.61,Credit Card
+ORD0048,2025-09-28,CUST054,Monitor,Electronics,East,1,15000,15,12750.0,1104.17,Cash on Delivery
+ORD0049,2025-04-18,CUST005,Mouse,Accessories,West,1,900,20,720.0,90.84,Credit Card
+ORD0050,2025-11-04,CUST144,Keyboard,Accessories,Central,2,1800,10,3240.0,610.3,Credit Card
+ORD0051,2025-11-15,CUST019,Power Bank,Accessories,West,2,1800,10,3240.0,697.19,Credit Card
+ORD0052,2025-11-14,CUST023,Tablet,Electronics,North,2,22000,20,35200.0,3919.05,Cash on Delivery
+ORD0053,2025-08-27,CUST034,Mouse,Accessories,North,1,900,5,855.0,201.43,Cash on Delivery
+ORD0054,2025-03-10,CUST022,Mouse,Accessories,Central,1,900,20,720.0,147.92,Debit Card
+ORD0055,2025-03-27,CUST029,Headphones,Accessories,West,4,2500,5,9500.0,1334.9,UPI
+ORD0056,2025-08-06,CUST085,Laptop,Electronics,West,2,65000,15,110500.0,12133.58,UPI
+ORD0057,2025-11-21,CUST100,Mouse,Accessories,South,3,900,5,2565.0,473.74,Cash on Delivery
+ORD0058,2025-09-14,CUST069,Power Bank,Accessories,Central,2,1800,10,3240.0,536.33,Cash on Delivery
+ORD0059,2025-06-09,CUST084,Smartwatch,Wearables,West,4,7000,5,26600.0,2247.88,Credit Card
+ORD0060,2025-06-28,CUST101,Headphones,Accessories,West,4,2500,0,10000.0,1579.03,Debit Card
+ORD0061,2025-10-12,CUST141,Laptop,Electronics,West,1,65000,5,61750.0,7109.67,Debit Card
+ORD0062,2025-08-03,CUST081,Smartphone,Electronics,South,1,30000,10,27000.0,4997.79,Cash on Delivery
+ORD0063,2025-04-25,CUST105,Power Bank,Accessories,West,2,1800,5,3420.0,471.64,Credit Card
+ORD0064,2025-08-05,CUST021,Mouse,Accessories,Central,2,900,20,1440.0,344.49,UPI
+ORD0065,2025-07-11,CUST099,Keyboard,Accessories,West,2,1800,20,2880.0,597.9,Credit Card
+ORD0066,2025-07-02,CUST013,Laptop,Electronics,North,3,65000,20,156000.0,18807.59,Debit Card
+ORD0067,2025-03-25,CUST112,USB Cable,Accessories,North,2,500,0,1000.0,170.84,Credit Card
+ORD0068,2025-08-21,CUST147,Headphones,Accessories,West,1,2500,15,2125.0,173.92,UPI
+ORD0069,2025-05-24,CUST117,Tablet,Electronics,Central,4,22000,15,74800.0,13275.84,Debit Card
+ORD0070,2025-02-22,CUST144,USB Cable,Accessories,North,4,500,10,1800.0,209.09,Debit Card
+ORD0071,2025-08-11,CUST122,Mouse,Accessories,Central,2,900,5,1710.0,153.53,Debit Card
+ORD0072,2025-08-27,CUST076,Tablet,Electronics,North,1,22000,10,19800.0,3959.83,Credit Card
+ORD0073,2025-01-07,CUST141,Power Bank,Accessories,South,4,1800,0,7200.0,699.77,UPI
+ORD0074,2025-01-29,CUST083,Smartphone,Electronics,Central,3,30000,5,85500.0,8970.9,UPI
+ORD0075,2025-08-05,CUST045,Monitor,Electronics,West,4,15000,0,60000.0,14461.94,Cash on Delivery
+ORD0076,2025-07-01,CUST091,Monitor,Electronics,South,4,15000,10,54000.0,11454.21,Credit Card
+ORD0077,2025-08-30,CUST126,Headphones,Accessories,South,3,2500,10,6750.0,831.1,Cash on Delivery
+ORD0078,2025-12-14,CUST113,Smartwatch,Wearables,North,1,7000,0,7000.0,1445.61,Cash on Delivery
+ORD0079,2025-02-13,CUST061,Laptop,Electronics,Central,2,65000,20,104000.0,25349.77,Cash on Delivery
+ORD0080,2025-06-13,CUST147,Monitor,Electronics,West,1,15000,10,13500.0,3189.37,UPI
+ORD0081,2025-05-23,CUST001,Smartphone,Electronics,Central,3,30000,0,90000.0,10517.18,Credit Card
+ORD0082,2025-11-26,CUST016,Monitor,Electronics,West,3,15000,0,45000.0,10601.7,Cash on Delivery
+ORD0083,2025-03-31,CUST136,Mouse,Accessories,South,4,900,5,3420.0,382.97,Cash on Delivery
+ORD0084,2025-08-16,CUST145,Smartphone,Electronics,North,4,30000,15,102000.0,14408.38,UPI
+ORD0085,2025-02-15,CUST035,Mouse,Accessories,Central,4,900,20,2880.0,565.64,Credit Card
+ORD0086,2025-01-10,CUST056,Smartphone,Electronics,South,3,30000,20,72000.0,13268.2,Debit Card
+ORD0087,2025-05-26,CUST011,Mouse,Accessories,Central,3,900,0,2700.0,572.92,Credit Card
+ORD0088,2025-04-08,CUST105,USB Cable,Accessories,East,2,500,10,900.0,200.84,Debit Card
+ORD0089,2025-12-17,CUST133,Laptop,Electronics,East,1,65000,15,55250.0,12055.17,UPI
+ORD0090,2025-03-24,CUST145,Tablet,Electronics,Central,1,22000,20,17600.0,4234.74,Credit Card
+ORD0091,2025-07-24,CUST004,USB Cable,Accessories,North,2,500,0,1000.0,242.19,UPI
+ORD0092,2025-03-13,CUST039,Smartwatch,Wearables,South,4,7000,5,26600.0,3747.61,Credit Card
+ORD0093,2025-09-25,CUST054,Smartphone,Electronics,West,2,30000,10,54000.0,9095.1,UPI
+ORD0094,2025-03-07,CUST075,USB Cable,Accessories,East,1,500,20,400.0,74.18,Debit Card
+ORD0095,2025-11-02,CUST098,Monitor,Electronics,South,4,15000,15,51000.0,12580.61,Credit Card
+ORD0096,2025-06-15,CUST079,Headphones,Accessories,West,3,2500,5,7125.0,991.82,Credit Card
+ORD0097,2025-10-12,CUST132,Tablet,Electronics,South,2,22000,10,39600.0,7864.53,Cash on Delivery
+ORD0098,2025-03-10,CUST034,Laptop,Electronics,Central,2,65000,0,130000.0,16107.2,Credit Card
+ORD0099,2025-12-02,CUST095,Headphones,Accessories,East,3,2500,0,7500.0,1186.65,Credit Card
+ORD0100,2025-07-14,CUST096,Smartwatch,Wearables,East,4,7000,15,23800.0,3302.57,Debit Card
+ORD0101,2025-10-04,CUST005,Smartphone,Electronics,South,1,30000,5,28500.0,3364.55,Cash on Delivery
+ORD0102,2025-05-13,CUST012,Power Bank,Accessories,South,1,1800,20,1440.0,249.53,Credit Card
+ORD0103,2025-03-14,CUST026,Smartphone,Electronics,North,1,30000,5,28500.0,5624.96,Debit Card
+ORD0104,2025-03-02,CUST081,USB Cable,Accessories,South,2,500,10,900.0,212.89,Cash on Delivery
+ORD0105,2025-06-29,CUST047,Laptop,Electronics,South,4,65000,0,260000.0,47199.69,Cash on Delivery
+ORD0106,2025-01-14,CUST056,Tablet,Electronics,East,2,22000,5,41800.0,8655.53,Debit Card
+ORD0107,2025-10-01,CUST038,Headphones,Accessories,East,3,2500,10,6750.0,1150.6,Debit Card
+ORD0108,2025-02-08,CUST017,USB Cable,Accessories,South,3,500,20,1200.0,133.19,Credit Card
+ORD0109,2025-03-09,CUST138,USB Cable,Accessories,East,1,500,20,400.0,72.36,UPI
+ORD0110,2025-02-03,CUST111,Smartphone,Electronics,North,3,30000,15,76500.0,13105.07,Cash on Delivery
+ORD0111,2025-06-29,CUST026,Headphones,Accessories,South,2,2500,0,5000.0,686.83,Debit Card
+ORD0112,2025-10-16,CUST150,Smartwatch,Wearables,Central,3,7000,20,16800.0,2287.48,Credit Card
+ORD0113,2025-11-14,CUST094,Monitor,Electronics,North,3,15000,15,38250.0,8592.44,Debit Card
+ORD0114,2025-08-11,CUST006,Headphones,Accessories,South,3,2500,20,6000.0,1482.03,Cash on Delivery
+ORD0115,2025-03-03,CUST079,Keyboard,Accessories,East,3,1800,0,5400.0,882.51,Cash on Delivery
+ORD0116,2025-11-22,CUST118,Power Bank,Accessories,West,3,1800,20,4320.0,910.72,Debit Card
+ORD0117,2025-02-16,CUST001,Keyboard,Accessories,South,1,1800,15,1530.0,185.45,Credit Card
+ORD0118,2025-11-29,CUST003,Monitor,Electronics,North,1,15000,10,13500.0,3218.97,Credit Card
+ORD0119,2025-05-18,CUST130,Smartphone,Electronics,Central,4,30000,5,114000.0,19751.93,Cash on Delivery
+ORD0120,2025-11-25,CUST017,Smartphone,Electronics,North,4,30000,0,120000.0,12432.03,Debit Card
+ORD0121,2025-11-01,CUST069,Smartwatch,Wearables,West,2,7000,10,12600.0,1755.28,Cash on Delivery
+ORD0122,2025-05-17,CUST076,Smartphone,Electronics,East,2,30000,20,48000.0,9803.88,Debit Card
+ORD0123,2025-11-24,CUST011,Laptop,Electronics,North,4,65000,15,221000.0,49307.51,UPI
+ORD0124,2025-03-19,CUST062,Headphones,Accessories,West,1,2500,20,2000.0,436.96,UPI
+ORD0125,2025-10-22,CUST104,Power Bank,Accessories,East,1,1800,5,1710.0,374.19,UPI
+ORD0126,2025-08-13,CUST053,Monitor,Electronics,East,1,15000,0,15000.0,1792.14,Debit Card
+ORD0127,2025-02-11,CUST015,Headphones,Accessories,Central,2,2500,10,4500.0,840.2,UPI
+ORD0128,2025-02-07,CUST097,Keyboard,Accessories,Central,2,1800,10,3240.0,693.56,UPI
+ORD0129,2025-01-10,CUST005,Tablet,Electronics,East,1,22000,15,18700.0,3307.68,Credit Card
+ORD0130,2025-08-16,CUST109,Laptop,Electronics,West,2,65000,20,104000.0,10275.97,Cash on Delivery
+ORD0131,2025-11-28,CUST130,Smartwatch,Wearables,East,1,7000,20,5600.0,666.25,Debit Card
+ORD0132,2025-10-26,CUST027,Headphones,Accessories,Central,3,2500,15,6375.0,1098.18,Cash on Delivery
+ORD0133,2025-08-06,CUST141,Power Bank,Accessories,South,4,1800,5,6840.0,1648.7,UPI
+ORD0134,2025-12-22,CUST068,Laptop,Electronics,Central,3,65000,15,165750.0,29968.21,Cash on Delivery
+ORD0135,2025-10-14,CUST122,Mouse,Accessories,North,4,900,5,3420.0,722.0,Credit Card
+ORD0136,2025-09-14,CUST046,Headphones,Accessories,Central,1,2500,0,2500.0,593.37,UPI
+ORD0137,2025-11-09,CUST001,Power Bank,Accessories,East,2,1800,15,3060.0,309.65,Cash on Delivery
+ORD0138,2025-07-21,CUST057,Mouse,Accessories,Central,3,900,0,2700.0,557.61,Credit Card
+ORD0139,2025-03-16,CUST038,USB Cable,Accessories,South,3,500,15,1275.0,218.48,Debit Card
+ORD0140,2025-05-08,CUST108,Smartphone,Electronics,East,3,30000,5,85500.0,20189.74,Debit Card
+ORD0141,2025-07-17,CUST088,Monitor,Electronics,North,4,15000,0,60000.0,9883.35,UPI
+ORD0142,2025-02-18,CUST081,Monitor,Electronics,West,2,15000,15,25500.0,2961.97,UPI
+ORD0143,2025-12-26,CUST049,Laptop,Electronics,North,4,65000,15,221000.0,37782.57,Cash on Delivery
+ORD0144,2025-11-14,CUST032,Tablet,Electronics,Central,3,22000,10,59400.0,12828.2,UPI
+ORD0145,2025-06-24,CUST113,Smartwatch,Wearables,South,3,7000,5,19950.0,2593.25,Credit Card
+ORD0146,2025-02-24,CUST103,Monitor,Electronics,East,3,15000,15,38250.0,4242.99,Cash on Delivery
+ORD0147,2025-03-28,CUST055,Power Bank,Accessories,West,2,1800,10,3240.0,613.91,Cash on Delivery
+ORD0148,2025-11-09,CUST067,Smartphone,Electronics,East,3,30000,20,72000.0,10753.73,Debit Card
+ORD0149,2025-03-08,CUST051,Smartwatch,Wearables,North,2,7000,0,14000.0,3023.8,Cash on Delivery
+ORD0150,2025-03-19,CUST032,Smartwatch,Wearables,East,2,7000,10,12600.0,1528.87,Cash on Delivery
+ORD0151,2025-08-11,CUST055,Keyboard,Accessories,South,4,1800,20,5760.0,598.95,Debit Card
+ORD0152,2025-05-27,CUST112,Power Bank,Accessories,Central,3,1800,0,5400.0,622.84,Debit Card
+ORD0153,2025-10-30,CUST148,Keyboard,Accessories,East,1,1800,15,1530.0,305.5,Credit Card
+ORD0154,2025-10-20,CUST137,Smartphone,Electronics,South,3,30000,15,76500.0,16922.66,UPI
+ORD0155,2025-10-07,CUST081,Headphones,Accessories,South,4,2500,5,9500.0,1993.22,Credit Card
+ORD0156,2025-07-28,CUST014,Smartwatch,Wearables,North,3,7000,0,21000.0,3410.66,Cash on Delivery
+ORD0157,2025-09-03,CUST022,Smartphone,Electronics,East,1,30000,0,30000.0,3715.23,Credit Card
+ORD0158,2025-04-08,CUST037,Keyboard,Accessories,East,2,1800,5,3420.0,797.19,Credit Card
+ORD0159,2025-02-10,CUST034,Smartphone,Electronics,North,4,30000,20,96000.0,20981.69,UPI
+ORD0160,2025-04-27,CUST106,USB Cable,Accessories,Central,2,500,5,950.0,192.31,Debit Card
+ORD0161,2025-09-25,CUST053,USB Cable,Accessories,South,3,500,10,1350.0,245.11,UPI
+ORD0162,2025-05-02,CUST046,Laptop,Electronics,South,2,65000,20,104000.0,15093.89,Cash on Delivery
+ORD0163,2025-10-19,CUST115,Monitor,Electronics,South,3,15000,0,45000.0,4233.41,UPI
+ORD0164,2025-04-23,CUST039,Mouse,Accessories,East,3,900,10,2430.0,341.33,Credit Card
+ORD0165,2025-09-07,CUST036,Smartphone,Electronics,West,3,30000,20,72000.0,11681.16,Debit Card
+ORD0166,2025-12-31,CUST073,Headphones,Accessories,North,4,2500,10,9000.0,2015.0,Cash on Delivery
+ORD0167,2025-04-14,CUST042,Laptop,Electronics,North,1,65000,0,65000.0,12989.43,Debit Card
+ORD0168,2025-06-21,CUST102,Headphones,Accessories,South,3,2500,5,7125.0,1538.29,Cash on Delivery
+ORD0169,2025-11-01,CUST017,Headphones,Accessories,South,1,2500,15,2125.0,461.68,UPI
+ORD0170,2025-08-04,CUST083,Tablet,Electronics,Central,1,22000,15,18700.0,3218.7,UPI
+ORD0171,2025-09-25,CUST143,Tablet,Electronics,East,1,22000,0,22000.0,5138.58,Credit Card
+ORD0172,2025-09-23,CUST016,USB Cable,Accessories,North,1,500,5,475.0,41.18,Debit Card
+ORD0173,2025-12-01,CUST117,Power Bank,Accessories,North,1,1800,5,1710.0,227.75,Debit Card
+ORD0174,2025-03-23,CUST116,Smartwatch,Wearables,East,2,7000,10,12600.0,3030.62,Credit Card
+ORD0175,2025-06-01,CUST108,Power Bank,Accessories,West,3,1800,0,5400.0,1028.85,UPI
+ORD0176,2025-07-02,CUST108,Smartphone,Electronics,North,3,30000,20,72000.0,12250.45,Cash on Delivery
+ORD0177,2025-01-16,CUST108,Monitor,Electronics,South,1,15000,20,12000.0,2236.82,Debit Card
+ORD0178,2025-09-04,CUST013,Headphones,Accessories,Central,2,2500,5,4750.0,397.18,Credit Card
+ORD0179,2025-11-14,CUST016,Headphones,Accessories,West,3,2500,15,6375.0,567.1,Debit Card
+ORD0180,2025-12-06,CUST133,USB Cable,Accessories,North,2,500,0,1000.0,137.18,Credit Card
+ORD0181,2025-06-07,CUST068,Laptop,Electronics,South,3,65000,20,156000.0,21884.58,Credit Card
+ORD0182,2025-03-14,CUST143,Mouse,Accessories,North,1,900,0,900.0,211.28,UPI
+ORD0183,2025-10-20,CUST061,Smartwatch,Wearables,Central,4,7000,15,23800.0,5773.66,Debit Card
+ORD0184,2025-08-14,CUST052,Monitor,Electronics,West,3,15000,10,40500.0,9462.14,Debit Card
+ORD0185,2025-08-31,CUST110,Smartwatch,Wearables,South,4,7000,20,22400.0,4265.85,Debit Card
+ORD0186,2025-09-16,CUST120,Smartphone,Electronics,Central,1,30000,5,28500.0,2457.97,UPI
+ORD0187,2025-01-20,CUST122,Monitor,Electronics,North,3,15000,0,45000.0,7564.69,UPI
+ORD0188,2025-05-25,CUST003,Power Bank,Accessories,East,3,1800,5,5130.0,838.76,Credit Card
+ORD0189,2025-12-23,CUST098,Smartwatch,Wearables,East,1,7000,0,7000.0,1265.6,UPI
+ORD0190,2025-05-17,CUST076,Smartwatch,Wearables,South,3,7000,10,18900.0,1928.13,UPI
+ORD0191,2025-08-14,CUST124,Smartwatch,Wearables,East,1,7000,20,5600.0,1147.92,UPI
+ORD0192,2025-10-11,CUST081,Power Bank,Accessories,South,2,1800,20,2880.0,338.2,Cash on Delivery
+ORD0193,2025-12-20,CUST040,Headphones,Accessories,East,2,2500,10,4500.0,626.07,UPI
+ORD0194,2025-04-02,CUST097,Laptop,Electronics,East,2,65000,10,117000.0,26627.72,Debit Card
+ORD0195,2025-06-30,CUST100,USB Cable,Accessories,East,1,500,10,450.0,54.26,Credit Card
+ORD0196,2025-09-06,CUST031,Tablet,Electronics,South,1,22000,10,19800.0,4819.79,Credit Card
+ORD0197,2025-07-25,CUST077,Mouse,Accessories,Central,2,900,5,1710.0,374.58,Cash on Delivery
+ORD0198,2025-04-23,CUST017,Tablet,Electronics,South,2,22000,20,35200.0,6507.69,Cash on Delivery
+ORD0199,2025-03-15,CUST063,Smartwatch,Wearables,West,1,7000,10,6300.0,641.57,Cash on Delivery
+ORD0200,2025-08-30,CUST068,Mouse,Accessories,East,1,900,15,765.0,83.8,Cash on Delivery
+ORD0201,2025-07-12,CUST022,Laptop,Electronics,South,4,65000,0,260000.0,46531.93,Cash on Delivery
+ORD0202,2025-09-08,CUST125,Smartphone,Electronics,West,2,30000,20,48000.0,7479.02,Debit Card
+ORD0203,2025-01-26,CUST029,Laptop,Electronics,West,2,65000,10,117000.0,14382.4,UPI
+ORD0204,2025-10-12,CUST075,Headphones,Accessories,West,1,2500,0,2500.0,269.54,Cash on Delivery
+ORD0205,2025-01-27,CUST081,Smartphone,Electronics,West,3,30000,15,76500.0,14631.92,Cash on Delivery
+ORD0206,2025-09-19,CUST147,Mouse,Accessories,North,3,900,20,2160.0,407.27,UPI
+ORD0207,2025-01-15,CUST064,Headphones,Accessories,North,3,2500,0,7500.0,1008.95,UPI
+ORD0208,2025-07-27,CUST027,Smartwatch,Wearables,West,4,7000,5,26600.0,6036.63,Credit Card
+ORD0209,2025-03-20,CUST027,USB Cable,Accessories,South,1,500,20,400.0,84.81,Cash on Delivery
+ORD0210,2025-06-30,CUST024,Tablet,Electronics,West,3,22000,20,52800.0,5402.05,Credit Card
+ORD0211,2025-09-30,CUST126,Headphones,Accessories,West,4,2500,0,10000.0,802.09,Cash on Delivery
+ORD0212,2025-08-02,CUST117,Keyboard,Accessories,South,1,1800,0,1800.0,193.21,Cash on Delivery
+ORD0213,2025-10-04,CUST018,Smartwatch,Wearables,South,3,7000,20,16800.0,1771.2,Credit Card
+ORD0214,2025-10-16,CUST102,Monitor,Electronics,North,4,15000,10,54000.0,10699.93,Cash on Delivery
+ORD0215,2025-02-15,CUST080,Monitor,Electronics,West,3,15000,0,45000.0,5451.64,Cash on Delivery
+ORD0216,2025-01-02,CUST033,Laptop,Electronics,North,2,65000,5,123500.0,16734.06,UPI
+ORD0217,2025-04-13,CUST103,Laptop,Electronics,South,1,65000,15,55250.0,7780.65,Credit Card
+ORD0218,2025-11-01,CUST104,Power Bank,Accessories,East,2,1800,5,3420.0,297.54,UPI
+ORD0219,2025-12-25,CUST041,Headphones,Accessories,South,3,2500,0,7500.0,1793.67,Cash on Delivery
+ORD0220,2025-03-25,CUST062,Smartwatch,Wearables,East,4,7000,5,26600.0,4955.63,Debit Card
+ORD0221,2025-11-10,CUST022,Tablet,Electronics,South,3,22000,15,56100.0,9761.97,Debit Card
+ORD0222,2025-01-14,CUST012,Headphones,Accessories,West,3,2500,0,7500.0,809.1,UPI
+ORD0223,2025-02-24,CUST100,USB Cable,Accessories,Central,1,500,10,450.0,52.77,Cash on Delivery
+ORD0224,2025-07-30,CUST150,Tablet,Electronics,Central,1,22000,10,19800.0,2128.19,Cash on Delivery
+ORD0225,2025-07-21,CUST035,Smartwatch,Wearables,Central,1,7000,10,6300.0,1200.5,UPI
+ORD0226,2025-11-01,CUST094,Monitor,Electronics,Central,3,15000,0,45000.0,10029.46,Debit Card
+ORD0227,2025-08-08,CUST108,Power Bank,Accessories,West,1,1800,15,1530.0,285.94,Cash on Delivery
+ORD0228,2025-04-15,CUST117,Smartwatch,Wearables,South,2,7000,0,14000.0,2343.31,Cash on Delivery
+ORD0229,2025-10-22,CUST115,Keyboard,Accessories,South,2,1800,5,3420.0,734.62,Credit Card
+ORD0230,2025-08-13,CUST099,Headphones,Accessories,South,1,2500,5,2375.0,444.99,Cash on Delivery
+ORD0231,2025-11-30,CUST002,Keyboard,Accessories,Central,4,1800,5,6840.0,823.42,UPI
+ORD0232,2025-11-12,CUST125,Monitor,Electronics,North,1,15000,0,15000.0,1830.44,Cash on Delivery
+ORD0233,2025-01-28,CUST066,Smartphone,Electronics,East,3,30000,0,90000.0,13183.55,UPI
+ORD0234,2025-06-13,CUST045,Mouse,Accessories,East,3,900,0,2700.0,571.02,Credit Card
+ORD0235,2025-11-28,CUST094,Headphones,Accessories,North,2,2500,5,4750.0,742.39,UPI
+ORD0236,2025-11-09,CUST064,Mouse,Accessories,West,4,900,10,3240.0,781.68,Cash on Delivery
+ORD0237,2025-07-23,CUST049,USB Cable,Accessories,North,3,500,20,1200.0,168.77,Cash on Delivery
+ORD0238,2025-11-30,CUST130,Smartwatch,Wearables,North,4,7000,15,23800.0,4088.46,Debit Card
+ORD0239,2025-04-29,CUST035,Mouse,Accessories,Central,4,900,5,3420.0,296.47,UPI
+ORD0240,2025-01-12,CUST020,Mouse,Accessories,Central,1,900,0,900.0,161.45,Credit Card
+ORD0241,2025-08-05,CUST050,Smartwatch,Wearables,Central,3,7000,10,18900.0,1567.84,UPI
+ORD0242,2025-10-21,CUST084,Tablet,Electronics,Central,3,22000,10,59400.0,9688.37,Cash on Delivery
+ORD0243,2025-12-07,CUST129,Smartphone,Electronics,Central,2,30000,15,51000.0,9918.66,Cash on Delivery
+ORD0244,2025-04-29,CUST114,Monitor,Electronics,South,1,15000,5,14250.0,2742.8,UPI
+ORD0245,2025-11-24,CUST089,Power Bank,Accessories,West,4,1800,0,7200.0,613.19,UPI
+ORD0246,2025-12-27,CUST090,Laptop,Electronics,West,3,65000,20,156000.0,30168.08,Credit Card
+ORD0247,2025-03-30,CUST013,Smartphone,Electronics,North,4,30000,0,120000.0,27275.35,UPI
+ORD0248,2025-04-12,CUST132,USB Cable,Accessories,East,3,500,15,1275.0,243.0,Credit Card
+ORD0249,2025-12-05,CUST109,Smartphone,Electronics,East,2,30000,20,48000.0,10350.16,UPI
+ORD0250,2025-03-06,CUST076,Smartwatch,Wearables,South,2,7000,0,14000.0,1901.55,Debit Card
+ORD0251,2025-11-01,CUST035,Mouse,Accessories,West,3,900,15,2295.0,397.6,Credit Card
+ORD0252,2025-11-26,CUST009,Power Bank,Accessories,East,3,1800,10,4860.0,527.97,UPI
+ORD0253,2025-04-27,CUST012,Power Bank,Accessories,Central,4,1800,5,6840.0,1104.39,Credit Card
+ORD0254,2025-02-12,CUST087,Mouse,Accessories,South,3,900,15,2295.0,369.58,Cash on Delivery
+ORD0255,2025-10-30,CUST117,Mouse,Accessories,West,3,900,10,2430.0,197.52,Debit Card
+ORD0256,2025-11-20,CUST021,USB Cable,Accessories,Central,4,500,10,1800.0,260.3,Credit Card
+ORD0257,2025-02-21,CUST027,Headphones,Accessories,Central,2,2500,20,4000.0,739.8,Debit Card
+ORD0258,2025-05-26,CUST002,Headphones,Accessories,North,4,2500,5,9500.0,1745.69,UPI
+ORD0259,2025-09-20,CUST095,Keyboard,Accessories,West,2,1800,0,3600.0,607.76,Credit Card
+ORD0260,2025-10-25,CUST036,Tablet,Electronics,West,1,22000,0,22000.0,3881.75,Cash on Delivery
+ORD0261,2025-06-22,CUST106,Monitor,Electronics,East,3,15000,0,45000.0,6457.35,UPI
+ORD0262,2025-01-26,CUST009,Tablet,Electronics,South,2,22000,20,35200.0,8107.09,Cash on Delivery
+ORD0263,2025-06-01,CUST049,Power Bank,Accessories,South,1,1800,20,1440.0,336.96,Debit Card
+ORD0264,2025-04-10,CUST060,Mouse,Accessories,South,4,900,5,3420.0,699.16,UPI
+ORD0265,2025-08-30,CUST069,Smartphone,Electronics,North,3,30000,15,76500.0,8066.9,Debit Card
+ORD0266,2025-10-20,CUST143,Smartphone,Electronics,East,1,30000,20,24000.0,2310.52,Cash on Delivery
+ORD0267,2025-03-19,CUST077,Tablet,Electronics,Central,4,22000,10,79200.0,9458.94,UPI
+ORD0268,2025-05-26,CUST067,USB Cable,Accessories,South,2,500,10,900.0,163.35,Credit Card
+ORD0269,2025-10-07,CUST046,Tablet,Electronics,East,1,22000,0,22000.0,1819.17,Cash on Delivery
+ORD0270,2025-04-19,CUST036,Power Bank,Accessories,Central,2,1800,5,3420.0,800.07,UPI
+ORD0271,2025-03-11,CUST013,Keyboard,Accessories,North,3,1800,0,5400.0,728.86,Cash on Delivery
+ORD0272,2025-06-09,CUST149,Smartphone,Electronics,South,4,30000,20,96000.0,8821.28,Debit Card
+ORD0273,2025-12-08,CUST070,Monitor,Electronics,South,4,15000,20,48000.0,7567.97,Debit Card
+ORD0274,2025-10-13,CUST116,Smartphone,Electronics,West,2,30000,0,60000.0,14953.9,Credit Card
+ORD0275,2025-10-30,CUST055,Keyboard,Accessories,South,1,1800,20,1440.0,270.64,Credit Card
+ORD0276,2025-05-16,CUST003,USB Cable,Accessories,Central,3,500,15,1275.0,177.34,Debit Card
+ORD0277,2025-09-05,CUST108,Headphones,Accessories,North,4,2500,20,8000.0,1642.57,UPI
+ORD0278,2025-10-15,CUST016,Mouse,Accessories,West,4,900,5,3420.0,731.69,Credit Card
+ORD0279,2025-05-31,CUST114,Keyboard,Accessories,Central,2,1800,20,2880.0,248.1,Credit Card
+ORD0280,2025-11-27,CUST067,USB Cable,Accessories,West,1,500,5,475.0,113.66,Credit Card
+ORD0281,2025-09-19,CUST150,Tablet,Electronics,East,2,22000,15,37400.0,8544.67,Debit Card
+ORD0282,2025-01-12,CUST049,Monitor,Electronics,South,4,15000,20,48000.0,7030.91,Credit Card
+ORD0283,2025-06-07,CUST134,Smartphone,Electronics,East,1,30000,10,27000.0,5255.05,Cash on Delivery
+ORD0284,2025-06-12,CUST066,Tablet,Electronics,East,4,22000,0,88000.0,11865.02,Credit Card
+ORD0285,2025-09-23,CUST025,Headphones,Accessories,South,2,2500,15,4250.0,754.02,UPI
+ORD0286,2025-11-17,CUST110,Monitor,Electronics,Central,1,15000,15,12750.0,2334.31,Cash on Delivery
+ORD0287,2025-05-21,CUST117,Headphones,Accessories,South,3,2500,0,7500.0,1652.13,Cash on Delivery
+ORD0288,2025-03-09,CUST012,Mouse,Accessories,West,2,900,15,1530.0,157.56,UPI
+ORD0289,2025-06-09,CUST093,Keyboard,Accessories,East,2,1800,20,2880.0,282.13,Credit Card
+ORD0290,2025-01-05,CUST010,Smartphone,Electronics,North,4,30000,10,108000.0,15735.42,Credit Card
+ORD0291,2025-04-09,CUST149,Smartphone,Electronics,North,1,30000,0,30000.0,4594.72,Cash on Delivery
+ORD0292,2025-09-17,CUST103,Headphones,Accessories,North,3,2500,15,6375.0,1179.81,UPI
+ORD0293,2025-05-04,CUST063,Tablet,Electronics,Central,4,22000,15,74800.0,8193.44,Cash on Delivery
+ORD0294,2025-01-14,CUST086,Headphones,Accessories,Central,3,2500,10,6750.0,1015.21,Credit Card
+ORD0295,2025-08-18,CUST079,Tablet,Electronics,Central,2,22000,10,39600.0,5985.88,Credit Card
+ORD0296,2025-08-01,CUST082,Tablet,Electronics,Central,2,22000,20,35200.0,4103.77,UPI
+ORD0297,2025-07-10,CUST149,Keyboard,Accessories,West,1,1800,10,1620.0,202.82,Cash on Delivery
+ORD0298,2025-02-03,CUST052,Tablet,Electronics,West,1,22000,5,20900.0,2123.94,Credit Card
+ORD0299,2025-02-11,CUST021,Smartwatch,Wearables,South,3,7000,0,21000.0,3872.27,UPI
+ORD0300,2025-05-09,CUST130,Laptop,Electronics,West,1,65000,0,65000.0,12478.55,Cash on Delivery
+ORD0301,2025-08-20,CUST021,Laptop,Electronics,West,2,65000,5,123500.0,10686.76,Debit Card
+ORD0302,2025-03-20,CUST145,Tablet,Electronics,West,2,22000,10,39600.0,6198.24,Debit Card
+ORD0303,2025-03-28,CUST101,Smartwatch,Wearables,Central,1,7000,10,6300.0,617.2,Cash on Delivery
+ORD0304,2025-06-01,CUST017,USB Cable,Accessories,Central,3,500,10,1350.0,259.25,Cash on Delivery
+ORD0305,2025-08-16,CUST139,Mouse,Accessories,West,4,900,5,3420.0,542.18,Debit Card
+ORD0306,2025-09-18,CUST005,Headphones,Accessories,South,3,2500,10,6750.0,752.51,Credit Card
+ORD0307,2025-02-18,CUST036,Laptop,Electronics,West,3,65000,0,195000.0,47954.1,Credit Card
+ORD0308,2025-07-09,CUST114,USB Cable,Accessories,South,1,500,0,500.0,85.08,UPI
+ORD0309,2025-09-26,CUST095,Keyboard,Accessories,West,4,1800,10,6480.0,1597.94,Credit Card
+ORD0310,2025-07-02,CUST059,Power Bank,Accessories,West,3,1800,0,5400.0,1283.98,Credit Card
+ORD0311,2025-08-01,CUST032,USB Cable,Accessories,East,2,500,15,850.0,102.78,Credit Card
+ORD0312,2025-02-01,CUST119,Laptop,Electronics,North,4,65000,20,208000.0,26749.66,Cash on Delivery
+ORD0313,2025-05-29,CUST126,USB Cable,Accessories,West,3,500,5,1425.0,268.09,Cash on Delivery
+ORD0314,2025-12-14,CUST029,Monitor,Electronics,Central,2,15000,10,27000.0,3396.23,Credit Card
+ORD0315,2025-10-10,CUST050,Smartphone,Electronics,East,1,30000,20,24000.0,4882.0,Debit Card
+ORD0316,2025-07-08,CUST097,Smartwatch,Wearables,East,4,7000,20,22400.0,3366.29,Debit Card
+ORD0317,2025-04-18,CUST111,Monitor,Electronics,North,3,15000,20,36000.0,3453.79,Cash on Delivery
+ORD0318,2025-03-13,CUST129,Mouse,Accessories,West,3,900,5,2565.0,448.53,UPI
+ORD0319,2025-08-12,CUST064,Headphones,Accessories,South,1,2500,15,2125.0,205.83,Credit Card
+ORD0320,2025-08-19,CUST066,USB Cable,Accessories,North,2,500,20,800.0,163.7,Cash on Delivery
+ORD0321,2025-03-31,CUST058,USB Cable,Accessories,West,4,500,15,1700.0,137.51,UPI
+ORD0322,2025-03-16,CUST144,USB Cable,Accessories,East,2,500,20,800.0,114.04,Debit Card
+ORD0323,2025-05-12,CUST111,Tablet,Electronics,Central,2,22000,10,39600.0,9875.32,Cash on Delivery
+ORD0324,2025-08-18,CUST054,Keyboard,Accessories,Central,2,1800,10,3240.0,335.11,Credit Card
+ORD0325,2025-01-20,CUST017,Monitor,Electronics,West,2,15000,15,25500.0,2826.02,UPI
+ORD0326,2025-02-24,CUST132,Headphones,Accessories,South,4,2500,20,8000.0,1428.78,Credit Card
+ORD0327,2025-11-01,CUST063,Smartphone,Electronics,East,3,30000,15,76500.0,16849.77,Credit Card
+ORD0328,2025-04-27,CUST100,Smartwatch,Wearables,East,1,7000,15,5950.0,1269.92,Cash on Delivery
+ORD0329,2025-05-26,CUST063,Keyboard,Accessories,West,2,1800,0,3600.0,553.62,UPI
+ORD0330,2025-07-17,CUST004,USB Cable,Accessories,West,4,500,20,1600.0,175.19,Cash on Delivery
+ORD0331,2025-05-17,CUST090,Monitor,Electronics,Central,3,15000,15,38250.0,5555.87,UPI
+ORD0332,2025-04-17,CUST113,Keyboard,Accessories,Central,1,1800,5,1710.0,234.04,Credit Card
+ORD0333,2025-02-04,CUST046,Laptop,Electronics,South,3,65000,20,156000.0,33234.07,Debit Card
+ORD0334,2025-03-15,CUST005,Mouse,Accessories,West,1,900,20,720.0,116.46,Credit Card
+ORD0335,2025-10-07,CUST057,Power Bank,Accessories,West,4,1800,5,6840.0,1604.64,Credit Card
+ORD0336,2025-02-26,CUST031,USB Cable,Accessories,West,2,500,15,850.0,86.98,Cash on Delivery
+ORD0337,2025-12-30,CUST106,USB Cable,Accessories,West,4,500,20,1600.0,146.76,Debit Card
+ORD0338,2025-12-02,CUST144,Headphones,Accessories,South,3,2500,15,6375.0,1363.05,UPI
+ORD0339,2025-07-03,CUST107,Monitor,Electronics,West,4,15000,0,60000.0,9773.23,Credit Card
+ORD0340,2025-06-27,CUST007,Power Bank,Accessories,South,3,1800,0,5400.0,749.55,Cash on Delivery
+ORD0341,2025-07-18,CUST149,Smartwatch,Wearables,South,3,7000,15,17850.0,1816.38,Credit Card
+ORD0342,2025-01-21,CUST082,Smartwatch,Wearables,Central,4,7000,0,28000.0,4593.73,Debit Card
+ORD0343,2025-12-11,CUST085,Tablet,Electronics,West,2,22000,20,35200.0,6198.94,UPI
+ORD0344,2025-11-23,CUST086,USB Cable,Accessories,North,1,500,5,475.0,96.14,UPI
+ORD0345,2025-02-12,CUST086,Smartwatch,Wearables,North,1,7000,20,5600.0,1266.85,UPI
+ORD0346,2025-12-07,CUST005,Smartphone,Electronics,South,2,30000,5,57000.0,9256.71,Credit Card
+ORD0347,2025-05-05,CUST086,USB Cable,Accessories,West,2,500,5,950.0,150.66,Cash on Delivery
+ORD0348,2025-04-09,CUST063,Smartwatch,Wearables,North,2,7000,15,11900.0,1672.13,Cash on Delivery
+ORD0349,2025-03-09,CUST110,Tablet,Electronics,West,1,22000,15,18700.0,3228.07,Credit Card
+ORD0350,2025-04-26,CUST092,Smartwatch,Wearables,East,4,7000,20,22400.0,4303.87,UPI
+ORD0351,2025-03-07,CUST131,USB Cable,Accessories,West,4,500,5,1900.0,394.49,UPI
+ORD0352,2025-10-06,CUST089,Power Bank,Accessories,East,4,1800,10,6480.0,634.59,Credit Card
+ORD0353,2025-09-25,CUST074,Headphones,Accessories,West,1,2500,10,2250.0,254.82,Cash on Delivery
+ORD0354,2025-02-24,CUST137,USB Cable,Accessories,South,4,500,20,1600.0,300.61,Credit Card
+ORD0355,2025-12-02,CUST131,Keyboard,Accessories,Central,2,1800,15,3060.0,331.17,Debit Card
+ORD0356,2025-01-08,CUST101,Smartphone,Electronics,West,3,30000,0,90000.0,16351.12,Cash on Delivery
+ORD0357,2025-01-12,CUST139,Mouse,Accessories,North,4,900,10,3240.0,745.23,Debit Card
+ORD0358,2025-06-11,CUST004,Tablet,Electronics,West,1,22000,20,17600.0,3577.76,Credit Card
+ORD0359,2025-10-10,CUST069,Power Bank,Accessories,North,3,1800,10,4860.0,522.84,Debit Card
+ORD0360,2025-06-03,CUST126,Laptop,Electronics,Central,4,65000,0,260000.0,57174.76,Debit Card
+ORD0361,2025-03-01,CUST121,USB Cable,Accessories,East,4,500,5,1900.0,187.77,Credit Card
+ORD0362,2025-03-17,CUST030,USB Cable,Accessories,South,1,500,5,475.0,104.15,Cash on Delivery
+ORD0363,2025-06-12,CUST034,Mouse,Accessories,North,4,900,5,3420.0,332.11,Debit Card
+ORD0364,2025-06-25,CUST128,Smartphone,Electronics,North,2,30000,10,54000.0,10297.53,UPI
+ORD0365,2025-03-07,CUST047,Headphones,Accessories,North,1,2500,15,2125.0,437.07,Cash on Delivery
+ORD0366,2025-10-30,CUST038,Laptop,Electronics,Central,4,65000,10,234000.0,46333.31,Debit Card
+ORD0367,2025-05-22,CUST145,USB Cable,Accessories,North,1,500,20,400.0,76.42,Debit Card
+ORD0368,2025-08-07,CUST091,Smartphone,Electronics,South,3,30000,0,90000.0,20575.67,Cash on Delivery
+ORD0369,2025-07-09,CUST035,Monitor,Electronics,East,2,15000,15,25500.0,3694.29,Credit Card
+ORD0370,2025-09-27,CUST102,Keyboard,Accessories,North,1,1800,0,1800.0,272.96,Debit Card
+ORD0371,2025-10-11,CUST071,Headphones,Accessories,North,3,2500,5,7125.0,1417.05,Debit Card
+ORD0372,2025-04-30,CUST061,Tablet,Electronics,West,1,22000,15,18700.0,3514.95,Cash on Delivery
+ORD0373,2025-11-04,CUST089,Laptop,Electronics,East,2,65000,0,130000.0,10674.13,UPI
+ORD0374,2025-02-10,CUST068,Headphones,Accessories,West,1,2500,10,2250.0,459.32,Cash on Delivery
+ORD0375,2025-04-30,CUST127,Smartphone,Electronics,Central,1,30000,20,24000.0,4340.34,Credit Card
+ORD0376,2025-03-05,CUST050,Laptop,Electronics,Central,4,65000,15,221000.0,39576.05,Debit Card
+ORD0377,2025-06-21,CUST137,Mouse,Accessories,West,1,900,15,765.0,89.84,Debit Card
+ORD0378,2025-12-09,CUST076,Laptop,Electronics,West,2,65000,0,130000.0,10955.64,Credit Card
+ORD0379,2025-08-20,CUST021,USB Cable,Accessories,East,3,500,5,1425.0,153.93,Credit Card
+ORD0380,2025-11-07,CUST092,Keyboard,Accessories,West,1,1800,20,1440.0,271.78,Cash on Delivery
+ORD0381,2025-07-13,CUST091,Monitor,Electronics,North,4,15000,20,48000.0,11761.45,UPI
+ORD0382,2025-03-02,CUST012,Smartwatch,Wearables,South,3,7000,0,21000.0,1690.43,Debit Card
+ORD0383,2025-04-03,CUST109,Smartwatch,Wearables,North,3,7000,15,17850.0,2853.13,Debit Card
+ORD0384,2025-12-06,CUST056,Smartwatch,Wearables,North,2,7000,10,12600.0,1966.48,UPI
+ORD0385,2025-02-12,CUST148,Monitor,Electronics,West,1,15000,0,15000.0,1758.63,UPI
+ORD0386,2025-07-11,CUST062,Power Bank,Accessories,South,3,1800,20,4320.0,667.66,Debit Card
+ORD0387,2025-02-06,CUST049,Monitor,Electronics,North,2,15000,0,30000.0,4424.78,UPI
+ORD0388,2025-07-02,CUST041,Smartwatch,Wearables,Central,1,7000,10,6300.0,1446.33,Cash on Delivery
+ORD0389,2025-02-14,CUST001,Headphones,Accessories,West,3,2500,20,6000.0,1428.02,Debit Card
+ORD0390,2025-09-25,CUST045,Smartwatch,Wearables,South,4,7000,20,22400.0,4511.04,Debit Card
+ORD0391,2025-12-09,CUST084,Power Bank,Accessories,South,1,1800,0,1800.0,338.74,Credit Card
+ORD0392,2025-03-23,CUST147,Smartphone,Electronics,West,4,30000,0,120000.0,18907.22,Cash on Delivery
+ORD0393,2025-08-31,CUST143,Keyboard,Accessories,North,1,1800,0,1800.0,267.7,Debit Card
+ORD0394,2025-11-03,CUST075,Smartphone,Electronics,Central,3,30000,20,72000.0,14066.92,Credit Card
+ORD0395,2025-01-28,CUST003,Smartphone,Electronics,West,3,30000,0,90000.0,16572.37,Credit Card
+ORD0396,2025-12-16,CUST040,Mouse,Accessories,South,2,900,20,1440.0,131.47,UPI
+ORD0397,2025-11-17,CUST055,USB Cable,Accessories,Central,2,500,15,850.0,110.63,Debit Card
+ORD0398,2025-05-07,CUST023,Power Bank,Accessories,North,1,1800,20,1440.0,313.0,Credit Card
+ORD0399,2025-04-09,CUST119,Mouse,Accessories,North,2,900,10,1620.0,248.0,UPI
+ORD0400,2025-10-15,CUST079,Monitor,Electronics,North,2,15000,15,25500.0,3020.92,Debit Card
+ORD0401,2025-11-09,CUST118,Tablet,Electronics,West,4,22000,10,79200.0,14174.72,Cash on Delivery
+ORD0402,2025-01-07,CUST056,Laptop,Electronics,North,4,65000,5,247000.0,26766.46,UPI
+ORD0403,2025-05-06,CUST139,Keyboard,Accessories,North,3,1800,20,4320.0,725.46,UPI
+ORD0404,2025-06-25,CUST116,Monitor,Electronics,West,4,15000,20,48000.0,8173.66,Credit Card
+ORD0405,2025-11-21,CUST120,Laptop,Electronics,East,3,65000,15,165750.0,17975.78,Debit Card
+ORD0406,2025-12-29,CUST051,Keyboard,Accessories,South,2,1800,10,3240.0,374.24,Credit Card
+ORD0407,2025-05-05,CUST037,Mouse,Accessories,South,2,900,5,1710.0,398.45,Cash on Delivery
+ORD0408,2025-07-20,CUST113,Mouse,Accessories,Central,3,900,15,2295.0,571.74,UPI
+ORD0409,2025-10-05,CUST068,Keyboard,Accessories,Central,1,1800,20,1440.0,352.84,UPI
+ORD0410,2025-12-08,CUST053,USB Cable,Accessories,East,1,500,20,400.0,68.84,Debit Card
+ORD0411,2025-04-19,CUST051,Headphones,Accessories,South,3,2500,5,7125.0,1571.48,UPI
+ORD0412,2025-05-19,CUST103,Mouse,Accessories,West,2,900,15,1530.0,183.53,Debit Card
+ORD0413,2025-04-21,CUST098,Laptop,Electronics,East,4,65000,20,208000.0,32341.39,Cash on Delivery
+ORD0414,2025-12-04,CUST104,Headphones,Accessories,North,1,2500,0,2500.0,512.2,Cash on Delivery
+ORD0415,2025-01-08,CUST028,Power Bank,Accessories,Central,3,1800,20,4320.0,882.31,UPI
+ORD0416,2025-04-01,CUST117,Mouse,Accessories,South,4,900,10,3240.0,332.11,Debit Card
+ORD0417,2025-09-03,CUST139,Monitor,Electronics,West,1,15000,15,12750.0,1102.33,UPI
+ORD0418,2025-01-12,CUST070,Laptop,Electronics,North,4,65000,15,221000.0,35217.0,Debit Card
+ORD0419,2025-12-18,CUST070,Headphones,Accessories,South,2,2500,15,4250.0,689.26,Cash on Delivery
+ORD0420,2025-07-22,CUST082,Monitor,Electronics,West,3,15000,0,45000.0,7904.74,Debit Card
+ORD0421,2025-11-25,CUST072,Keyboard,Accessories,West,3,1800,20,4320.0,695.53,UPI
+ORD0422,2025-11-24,CUST147,Laptop,Electronics,East,1,65000,0,65000.0,8497.71,Debit Card
+ORD0423,2025-07-27,CUST114,Mouse,Accessories,Central,1,900,20,720.0,170.99,Credit Card
+ORD0424,2025-05-06,CUST021,Headphones,Accessories,West,2,2500,5,4750.0,488.56,Credit Card
+ORD0425,2025-02-26,CUST047,USB Cable,Accessories,East,4,500,10,1800.0,208.48,Debit Card
+ORD0426,2025-11-23,CUST030,Smartphone,Electronics,East,4,30000,5,114000.0,25175.74,UPI
+ORD0427,2025-02-06,CUST141,Keyboard,Accessories,Central,1,1800,20,1440.0,296.47,Cash on Delivery
+ORD0428,2025-07-13,CUST104,USB Cable,Accessories,North,3,500,0,1500.0,335.71,Credit Card
+ORD0429,2025-09-16,CUST142,Keyboard,Accessories,West,2,1800,10,3240.0,451.33,UPI
+ORD0430,2025-12-24,CUST016,Smartphone,Electronics,South,1,30000,20,24000.0,2331.84,Cash on Delivery
+ORD0431,2025-05-24,CUST102,Laptop,Electronics,West,3,65000,5,185250.0,39841.28,Credit Card
+ORD0432,2025-10-17,CUST039,Smartphone,Electronics,East,2,30000,20,48000.0,9281.53,Cash on Delivery
+ORD0433,2025-08-19,CUST053,Tablet,Electronics,North,2,22000,10,39600.0,3316.29,UPI
+ORD0434,2025-02-22,CUST019,USB Cable,Accessories,North,2,500,20,800.0,68.58,UPI
+ORD0435,2025-02-01,CUST074,Monitor,Electronics,South,3,15000,0,45000.0,9106.4,Cash on Delivery
+ORD0436,2025-01-14,CUST110,Smartwatch,Wearables,West,2,7000,15,11900.0,2240.83,UPI
+ORD0437,2025-09-21,CUST012,Smartwatch,Wearables,South,3,7000,15,17850.0,1861.56,Credit Card
+ORD0438,2025-02-18,CUST079,Smartwatch,Wearables,North,2,7000,10,12600.0,1589.65,Debit Card
+ORD0439,2025-04-06,CUST038,Laptop,Electronics,North,2,65000,20,104000.0,9148.34,Debit Card
+ORD0440,2025-11-16,CUST139,Smartwatch,Wearables,North,2,7000,0,14000.0,1930.08,UPI
+ORD0441,2025-04-10,CUST082,Headphones,Accessories,East,1,2500,10,2250.0,511.45,UPI
+ORD0442,2025-07-05,CUST060,Headphones,Accessories,East,1,2500,15,2125.0,413.89,UPI
+ORD0443,2025-08-01,CUST149,Smartwatch,Wearables,East,3,7000,5,19950.0,2067.81,UPI
+ORD0444,2025-10-08,CUST094,Mouse,Accessories,North,1,900,15,765.0,78.05,UPI
+ORD0445,2025-10-25,CUST145,Keyboard,Accessories,Central,3,1800,10,4860.0,921.0,Credit Card
+ORD0446,2025-05-26,CUST105,Tablet,Electronics,West,4,22000,0,88000.0,14160.48,Debit Card
+ORD0447,2025-04-10,CUST031,USB Cable,Accessories,South,1,500,5,475.0,82.58,Cash on Delivery
+ORD0448,2025-04-10,CUST109,USB Cable,Accessories,Central,1,500,10,450.0,91.88,UPI
+ORD0449,2025-01-28,CUST070,Smartphone,Electronics,West,1,30000,15,25500.0,5241.82,Cash on Delivery
+ORD0450,2025-09-09,CUST013,Mouse,Accessories,North,4,900,0,3600.0,832.81,UPI
+ORD0451,2025-10-30,CUST053,Monitor,Electronics,South,2,15000,5,28500.0,4914.74,Credit Card
+ORD0452,2025-12-22,CUST142,Mouse,Accessories,South,2,900,5,1710.0,142.42,Debit Card
+ORD0453,2025-01-24,CUST029,USB Cable,Accessories,East,3,500,0,1500.0,351.05,UPI
+ORD0454,2025-11-17,CUST084,Keyboard,Accessories,West,2,1800,15,3060.0,451.66,Cash on Delivery
+ORD0455,2025-10-10,CUST134,Laptop,Electronics,Central,4,65000,15,221000.0,54348.84,UPI
+ORD0456,2025-11-09,CUST126,Laptop,Electronics,West,3,65000,5,185250.0,21851.12,Cash on Delivery
+ORD0457,2025-04-21,CUST051,Mouse,Accessories,North,4,900,20,2880.0,707.37,Cash on Delivery
+ORD0458,2025-02-14,CUST059,Smartwatch,Wearables,West,1,7000,0,7000.0,906.46,Cash on Delivery
+ORD0459,2025-08-14,CUST079,Headphones,Accessories,West,1,2500,0,2500.0,598.39,Debit Card
+ORD0460,2025-04-29,CUST133,Power Bank,Accessories,West,4,1800,5,6840.0,1698.61,Credit Card
+ORD0461,2025-07-18,CUST106,Monitor,Electronics,North,1,15000,0,15000.0,1774.72,Credit Card
+ORD0462,2025-09-24,CUST104,USB Cable,Accessories,West,2,500,10,900.0,160.48,Debit Card
+ORD0463,2025-07-07,CUST057,Laptop,Electronics,North,1,65000,15,55250.0,7588.47,Credit Card
+ORD0464,2025-03-25,CUST052,Smartphone,Electronics,North,2,30000,0,60000.0,14292.19,Debit Card
+ORD0465,2025-08-14,CUST015,Smartwatch,Wearables,Central,2,7000,0,14000.0,3399.88,Credit Card
+ORD0466,2025-03-03,CUST086,Mouse,Accessories,South,2,900,20,1440.0,267.2,Credit Card
+ORD0467,2025-01-03,CUST006,Power Bank,Accessories,Central,2,1800,20,2880.0,454.93,Cash on Delivery
+ORD0468,2025-01-11,CUST095,Laptop,Electronics,West,1,65000,10,58500.0,12567.81,Cash on Delivery
+ORD0469,2025-02-17,CUST064,Monitor,Electronics,East,1,15000,15,12750.0,3082.22,Credit Card
+ORD0470,2025-10-01,CUST019,USB Cable,Accessories,South,4,500,10,1800.0,284.44,Credit Card
+ORD0471,2025-02-28,CUST125,Monitor,Electronics,South,4,15000,15,51000.0,10951.8,UPI
+ORD0472,2025-01-08,CUST141,Mouse,Accessories,South,4,900,5,3420.0,835.84,Cash on Delivery
+ORD0473,2025-03-22,CUST084,Keyboard,Accessories,South,3,1800,0,5400.0,852.66,Credit Card
+ORD0474,2025-02-05,CUST101,Monitor,Electronics,West,4,15000,0,60000.0,13321.16,Cash on Delivery
+ORD0475,2025-06-19,CUST104,Power Bank,Accessories,South,3,1800,10,4860.0,426.85,Debit Card
+ORD0476,2025-06-04,CUST121,Smartwatch,Wearables,Central,4,7000,10,25200.0,3103.37,Debit Card
+ORD0477,2025-09-04,CUST034,Power Bank,Accessories,East,4,1800,0,7200.0,764.26,UPI
+ORD0478,2025-04-27,CUST094,USB Cable,Accessories,East,1,500,0,500.0,94.01,Debit Card
+ORD0479,2025-01-17,CUST018,Laptop,Electronics,Central,3,65000,10,175500.0,22260.97,Cash on Delivery
+ORD0480,2025-04-24,CUST001,Keyboard,Accessories,South,1,1800,10,1620.0,244.06,Credit Card
+ORD0481,2025-02-10,CUST105,Keyboard,Accessories,Central,4,1800,5,6840.0,1523.74,Credit Card
+ORD0482,2025-08-09,CUST068,Laptop,Electronics,Central,1,65000,5,61750.0,12073.58,Cash on Delivery
+ORD0483,2025-10-09,CUST115,Smartwatch,Wearables,East,3,7000,20,16800.0,2819.69,UPI
+ORD0484,2025-05-12,CUST023,Tablet,Electronics,South,3,22000,5,62700.0,14529.78,Cash on Delivery
+ORD0485,2025-02-10,CUST112,Smartphone,Electronics,East,4,30000,20,96000.0,17327.25,Cash on Delivery
+ORD0486,2025-11-20,CUST122,Tablet,Electronics,East,2,22000,15,37400.0,7035.96,UPI
+ORD0487,2025-07-08,CUST024,Laptop,Electronics,South,3,65000,10,175500.0,38976.87,Cash on Delivery
+ORD0488,2025-06-30,CUST116,Headphones,Accessories,Central,2,2500,0,5000.0,793.8,UPI
+ORD0489,2025-09-06,CUST054,Mouse,Accessories,Central,2,900,0,1800.0,144.0,UPI
+ORD0490,2025-01-03,CUST128,Power Bank,Accessories,East,4,1800,20,5760.0,758.42,Credit Card
+ORD0491,2025-08-27,CUST141,Keyboard,Accessories,South,4,1800,15,6120.0,722.95,Credit Card
+ORD0492,2025-07-04,CUST126,Mouse,Accessories,East,1,900,10,810.0,102.18,Debit Card
+ORD0493,2025-08-29,CUST016,Monitor,Electronics,East,4,15000,20,48000.0,8266.56,Debit Card
+ORD0494,2025-09-11,CUST009,Power Bank,Accessories,North,2,1800,10,3240.0,407.38,Debit Card
+ORD0495,2025-02-17,CUST111,Power Bank,Accessories,North,2,1800,0,3600.0,509.37,Debit Card
+ORD0496,2025-08-05,CUST051,Mouse,Accessories,West,1,900,0,900.0,150.62,UPI
+ORD0497,2025-04-06,CUST123,USB Cable,Accessories,North,3,500,5,1425.0,282.9,Debit Card
+ORD0498,2025-03-22,CUST073,Tablet,Electronics,Central,2,22000,20,35200.0,7972.36,Credit Card
+ORD0499,2025-12-03,CUST063,Monitor,Electronics,North,4,15000,15,51000.0,5444.02,Cash on Delivery
+ORD0500,2025-09-28,CUST100,Tablet,Electronics,West,4,22000,0,88000.0,11707.28,Credit Card
