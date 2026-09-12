@@ -242,6 +242,8 @@ A small group of customers contributed significantly to total revenue and profit
 
 The Power BI dashboard provides an interactive view of the e-commerce business.
 
+![E-Commerce Sales Analytics Dashboard](documentation/dashboard.png)
+
 ### Dashboard Components
 
 * KPI cards
